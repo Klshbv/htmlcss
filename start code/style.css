@@ -1,0 +1,36 @@
+table {
+  color:green;
+  border-radius: 6px;
+  border: 3px solid black;
+}
+
+[colspan="3"] {
+  color: black;
+}
+
+th[height="170"] {
+  color: red;
+}
+
+td[height="170"] {
+  color: red;
+}
+
+.st {
+  color: purple;
+}
+html tr {
+  color: black;
+}
+
+.list > li {
+  color:red;
+}
+
+.font-size-md {
+  font-size: 18px;
+}
+
+.font-size-md.color-black {
+  color: black;
+}
